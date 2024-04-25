@@ -1,0 +1,13 @@
+.mail{
+   margin-left: 40%;
+}
+.phone{
+    margin-left: 42%;
+}
+h1{
+    margin-left: 41%;
+}
+.edu{
+    display: flex;
+    justify-content: space-between;
+}
